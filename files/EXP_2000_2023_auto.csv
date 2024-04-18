@@ -1,0 +1,865 @@
+﻿Ano;Mês;"Código ISIC Grupo";"Descrição ISIC Grupo";"Valor FOB (US$)";"Quilograma Líquido"
+2023;05;291;"Fabricação de veículos automotores";913214146;84500006
+2023;03;291;"Fabricação de veículos automotores";872453348;79728514
+2023;04;291;"Fabricação de veículos automotores";865275804;80030390
+2023;06;291;"Fabricação de veículos automotores";823397783;75371965
+2023;10;291;"Fabricação de veículos automotores";809813557;71847596
+2023;07;291;"Fabricação de veículos automotores";798241220;70725479
+2023;08;291;"Fabricação de veículos automotores";749135360;66815086
+2023;02;291;"Fabricação de veículos automotores";713416709;67039017
+2023;11;291;"Fabricação de veículos automotores";671182839;59818040
+2023;01;291;"Fabricação de veículos automotores";604493865;57391903
+2023;12;291;"Fabricação de veículos automotores";592262933;52584014
+2023;09;291;"Fabricação de veículos automotores";563307120;49442255
+2023;08;293;"Fabricação de peças e acessórios para veículos automotores";474578148;72535046
+2023;05;293;"Fabricação de peças e acessórios para veículos automotores";456893920;67557084
+2023;03;293;"Fabricação de peças e acessórios para veículos automotores";447227141;68170464
+2023;07;293;"Fabricação de peças e acessórios para veículos automotores";442010223;67182762
+2023;06;293;"Fabricação de peças e acessórios para veículos automotores";414536036;60862305
+2023;09;293;"Fabricação de peças e acessórios para veículos automotores";406443870;60438982
+2023;04;293;"Fabricação de peças e acessórios para veículos automotores";405795135;59145819
+2023;10;293;"Fabricação de peças e acessórios para veículos automotores";403712916;61454657
+2023;11;293;"Fabricação de peças e acessórios para veículos automotores";395812386;59250771
+2023;02;293;"Fabricação de peças e acessórios para veículos automotores";367106451;56105126
+2023;12;293;"Fabricação de peças e acessórios para veículos automotores";336395353;51881902
+2023;01;293;"Fabricação de peças e acessórios para veículos automotores";321181452;50394346
+2023;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";54574301;5965342
+2023;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";54198490;6103157
+2023;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";46551491;5069565
+2023;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";45684063;5743251
+2023;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";44373845;4936729
+2023;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";44051845;5059081
+2023;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";43322119;5082206
+2023;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";39156272;4806384
+2023;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37728621;4594911
+2023;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36706357;4789833
+2023;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36682010;4485977
+2023;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";33657598;3825588
+2022;08;291;"Fabricação de veículos automotores";1024721327;98757783
+2022;06;291;"Fabricação de veículos automotores";915733850;88624343
+2022;10;291;"Fabricação de veículos automotores";894514561;85881989
+2022;11;291;"Fabricação de veículos automotores";892962787;84688749
+2022;07;291;"Fabricação de veículos automotores";798990140;76142676
+2022;05;291;"Fabricação de veículos automotores";782994916;77690858
+2022;04;291;"Fabricação de veículos automotores";762499834;76709497
+2022;03;291;"Fabricação de veículos automotores";687086964;70181230
+2022;09;291;"Fabricação de veículos automotores";661686642;62842176
+2022;12;291;"Fabricação de veículos automotores";661199339;63214925
+2022;02;291;"Fabricação de veículos automotores";578008551;60441257
+2022;01;291;"Fabricação de veículos automotores";484960313;50278608
+2022;08;293;"Fabricação de peças e acessórios para veículos automotores";435027610;71813297
+2022;09;293;"Fabricação de peças e acessórios para veículos automotores";414813324;68076280
+2022;06;293;"Fabricação de peças e acessórios para veículos automotores";408451184;71084875
+2022;11;293;"Fabricação de peças e acessórios para veículos automotores";408116237;65709759
+2022;10;293;"Fabricação de peças e acessórios para veículos automotores";406498141;65608118
+2022;07;293;"Fabricação de peças e acessórios para veículos automotores";374499985;64220148
+2022;05;293;"Fabricação de peças e acessórios para veículos automotores";367719083;61252797
+2022;04;293;"Fabricação de peças e acessórios para veículos automotores";349623383;61138024
+2022;03;293;"Fabricação de peças e acessórios para veículos automotores";349096817;62658498
+2022;12;293;"Fabricação de peças e acessórios para veículos automotores";339473938;53381747
+2022;02;293;"Fabricação de peças e acessórios para veículos automotores";312699655;58131000
+2022;01;293;"Fabricação de peças e acessórios para veículos automotores";254701443;46770969
+2022;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";73860402;7998457
+2022;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";63076544;7157681
+2022;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";56350558;7377851
+2022;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";55209715;7025756
+2022;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";55043578;6747572
+2022;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";48666659;6802066
+2022;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";45093675;6137213
+2022;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";41915122;6442079
+2022;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37833510;5440307
+2022;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32060366;5747758
+2022;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";31889090;4576186
+2022;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";29042419;4240975
+2021;05;291;"Fabricação de veículos automotores";684807748;76581922
+2021;12;291;"Fabricação de veículos automotores";660506743;70491196
+2021;11;291;"Fabricação de veículos automotores";647112000;67953315
+2021;03;291;"Fabricação de veículos automotores";630209822;69596509
+2021;06;291;"Fabricação de veículos automotores";587934227;66235271
+2021;09;291;"Fabricação de veículos automotores";585348885;61783453
+2021;08;291;"Fabricação de veículos automotores";554306446;58669051
+2021;02;291;"Fabricação de veículos automotores";510858301;55123890
+2021;04;291;"Fabricação de veículos automotores";497563079;54677939
+2021;10;291;"Fabricação de veículos automotores";489592595;49948296
+2021;07;291;"Fabricação de veículos automotores";458052351;48726963
+2021;01;291;"Fabricação de veículos automotores";410527372;43511182
+2021;09;293;"Fabricação de peças e acessórios para veículos automotores";334167151;61236045
+2021;10;293;"Fabricação de peças e acessórios para veículos automotores";327438032;61502154
+2021;11;293;"Fabricação de peças e acessórios para veículos automotores";324038970;62019816
+2021;08;293;"Fabricação de peças e acessórios para veículos automotores";317201855;58452998
+2021;12;293;"Fabricação de peças e acessórios para veículos automotores";313867134;57309023
+2021;05;293;"Fabricação de peças e acessórios para veículos automotores";303045127;61361200
+2021;03;293;"Fabricação de peças e acessórios para veículos automotores";291300571;57816857
+2021;07;293;"Fabricação de peças e acessórios para veículos automotores";289861469;56165785
+2021;04;293;"Fabricação de peças e acessórios para veículos automotores";285805021;59907208
+2021;06;293;"Fabricação de peças e acessórios para veículos automotores";284138914;56512970
+2021;02;293;"Fabricação de peças e acessórios para veículos automotores";239323310;50235006
+2021;01;293;"Fabricação de peças e acessórios para veículos automotores";217934685;43144025
+2021;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";44155451;6714547
+2021;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32950035;6263361
+2021;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30818858;5865172
+2021;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30252316;5829329
+2021;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28846595;5288924
+2021;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27697689;5247745
+2021;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26624873;5143855
+2021;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26480037;4935125
+2021;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";25257062;4787901
+2021;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";24793282;5195337
+2021;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";20126175;4397806
+2021;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";19575582;3837332
+2020;11;291;"Fabricação de veículos automotores";625338928;72076780
+2020;12;291;"Fabricação de veículos automotores";613893042;71542917
+2020;03;291;"Fabricação de veículos automotores";583942727;63788630
+2020;09;291;"Fabricação de veículos automotores";575631359;63585379
+2020;07;291;"Fabricação de veículos automotores";545613759;62957548
+2020;10;291;"Fabricação de veículos automotores";533440871;60863186
+2020;02;291;"Fabricação de veículos automotores";525413647;54170224
+2020;08;291;"Fabricação de veículos automotores";432331219;46370082
+2020;06;291;"Fabricação de veículos automotores";411546748;29401831
+2020;01;291;"Fabricação de veículos automotores";352434954;37631073
+2020;11;293;"Fabricação de peças e acessórios para veículos automotores";252690074;52851959
+2020;02;293;"Fabricação de peças e acessórios para veículos automotores";251021046;50018051
+2020;03;293;"Fabricação de peças e acessórios para veículos automotores";250795381;54831704
+2020;12;293;"Fabricação de peças e acessórios para veículos automotores";250159745;50624297
+2020;10;293;"Fabricação de peças e acessórios para veículos automotores";240231298;49269943
+2020;09;293;"Fabricação de peças e acessórios para veículos automotores";226905708;49216071
+2020;08;293;"Fabricação de peças e acessórios para veículos automotores";220048587;45445265
+2020;04;291;"Fabricação de veículos automotores";182417862;19503612
+2020;01;293;"Fabricação de peças e acessórios para veículos automotores";176478355;32110587
+2020;07;293;"Fabricação de peças e acessórios para veículos automotores";171871134;35833814
+2020;06;293;"Fabricação de peças e acessórios para veículos automotores";139646548;28836902
+2020;04;293;"Fabricação de peças e acessórios para veículos automotores";138273120;28831049
+2020;05;291;"Fabricação de veículos automotores";129446006;13449653
+2020;05;293;"Fabricação de peças e acessórios para veículos automotores";112423153;26514162
+2020;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";31120035;5824794
+2020;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28917026;4353088
+2020;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27983171;4309546
+2020;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";25702414;3526267
+2020;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";24854059;3722008
+2020;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";22709351;4676284
+2020;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";20776578;3136354
+2020;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";17979456;3783339
+2020;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16323998;2677170
+2020;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16167862;2338688
+2020;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13987446;2284811
+2020;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";11372513;1393378
+2019;06;291;"Fabricação de veículos automotores";742245247;80248249
+2019;04;291;"Fabricação de veículos automotores";725746149;69930412
+2019;07;291;"Fabricação de veículos automotores";647778873;70471846
+2019;11;291;"Fabricação de veículos automotores";636406568;58450095
+2019;05;291;"Fabricação de veículos automotores";625258141;68223430
+2019;12;291;"Fabricação de veículos automotores";620978453;62898936
+2019;02;291;"Fabricação de veículos automotores";611584948;63981138
+2019;08;291;"Fabricação de veículos automotores";582413595;63538223
+2019;09;291;"Fabricação de veículos automotores";580791539;62589785
+2019;03;291;"Fabricação de veículos automotores";537177796;55609622
+2019;10;291;"Fabricação de veículos automotores";485048630;52595336
+2019;01;291;"Fabricação de veículos automotores";428207907;48743572
+2019;05;293;"Fabricação de peças e acessórios para veículos automotores";320492234;59338645
+2019;08;293;"Fabricação de peças e acessórios para veículos automotores";310087676;59423261
+2019;04;293;"Fabricação de peças e acessórios para veículos automotores";306800473;56447435
+2019;03;293;"Fabricação de peças e acessórios para veículos automotores";302346891;57060732
+2019;09;293;"Fabricação de peças e acessórios para veículos automotores";289732472;54182982
+2019;02;293;"Fabricação de peças e acessórios para veículos automotores";289565911;51745423
+2019;07;293;"Fabricação de peças e acessórios para veículos automotores";282667789;55074168
+2019;10;293;"Fabricação de peças e acessórios para veículos automotores";276174181;51375797
+2019;06;293;"Fabricação de peças e acessórios para veículos automotores";271013765;50445426
+2019;11;293;"Fabricação de peças e acessórios para veículos automotores";237655156;44926815
+2019;01;293;"Fabricação de peças e acessórios para veículos automotores";230271177;42235235
+2019;12;293;"Fabricação de peças e acessórios para veículos automotores";228092845;44045261
+2019;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";39161510;4659797
+2019;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37505585;5100847
+2019;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34662357;4992540
+2019;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34580572;4132048
+2019;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34336011;4828428
+2019;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34313936;4336470
+2019;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32112354;3863211
+2019;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30529236;4070056
+2019;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26501885;3695083
+2019;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";25455712;4144395
+2019;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23602502;4070769
+2019;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";21946872;3243207
+2018;03;291;"Fabricação de veículos automotores";1114701803;115964898
+2018;04;291;"Fabricação de veículos automotores";1083878888;113618301
+2018;02;291;"Fabricação de veículos automotores";1027894079;109914920
+2018;08;291;"Fabricação de veículos automotores";950852952;100916314
+2018;06;291;"Fabricação de veículos automotores";936733100;97523933
+2018;05;291;"Fabricação de veículos automotores";900673908;97521992
+2018;07;291;"Fabricação de veículos automotores";766651970;81757288
+2018;11;291;"Fabricação de veículos automotores";752324864;83011176
+2018;10;291;"Fabricação de veículos automotores";731757303;81022536
+2018;09;291;"Fabricação de veículos automotores";653574575;69482396
+2018;01;291;"Fabricação de veículos automotores";640317417;70156197
+2018;12;291;"Fabricação de veículos automotores";542144227;56059098
+2018;08;293;"Fabricação de peças e acessórios para veículos automotores";378472345;68575005
+2018;06;293;"Fabricação de peças e acessórios para veículos automotores";368799709;68446049
+2018;03;293;"Fabricação de peças e acessórios para veículos automotores";366356891;63966800
+2018;04;293;"Fabricação de peças e acessórios para veículos automotores";353874556;63167522
+2018;02;293;"Fabricação de peças e acessórios para veículos automotores";332388763;58552978
+2018;10;293;"Fabricação de peças e acessórios para veículos automotores";328198610;57009876
+2018;09;293;"Fabricação de peças e acessórios para veículos automotores";324935854;59258955
+2018;11;293;"Fabricação de peças e acessórios para veículos automotores";312225604;57036013
+2018;01;293;"Fabricação de peças e acessórios para veículos automotores";305740031;55439320
+2018;12;293;"Fabricação de peças e acessórios para veículos automotores";288704541;53458541
+2018;05;293;"Fabricação de peças e acessórios para veículos automotores";277422453;43785655
+2018;07;293;"Fabricação de peças e acessórios para veículos automotores";268919353;43233971
+2018;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";48371706;6893392
+2018;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";41759980;5430743
+2018;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";41655878;5907045
+2018;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";40112602;6268865
+2018;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37563201;3926752
+2018;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36721698;4917770
+2018;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35252585;4499962
+2018;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34582462;5708992
+2018;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32764633;5558324
+2018;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26275156;3800923
+2018;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";24783317;4133957
+2018;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23671303;3295001
+2017;10;291;"Fabricação de veículos automotores";1116658844;106672585
+2017;08;291;"Fabricação de veículos automotores";1084580177;108842436
+2017;06;291;"Fabricação de veículos automotores";1082152661;115906437
+2017;05;291;"Fabricação de veículos automotores";1070743882;116468105
+2017;03;291;"Fabricação de veículos automotores";1056880647;114025961
+2017;11;291;"Fabricação de veículos automotores";1053904237;113906730
+2017;12;291;"Fabricação de veículos automotores";1023885086;108756256
+2017;04;291;"Fabricação de veículos automotores";1022316199;97664615
+2017;07;291;"Fabricação de veículos automotores";1004977287;107607186
+2017;09;291;"Fabricação de veículos automotores";901099709;95092727
+2017;02;291;"Fabricação de veículos automotores";813315925;90238275
+2017;01;291;"Fabricação de veículos automotores";641665699;70017903
+2017;08;293;"Fabricação de peças e acessórios para veículos automotores";361486937;64593211
+2017;10;293;"Fabricação de peças e acessórios para veículos automotores";345654575;60052908
+2017;05;293;"Fabricação de peças e acessórios para veículos automotores";335539906;59620572
+2017;09;293;"Fabricação de peças e acessórios para veículos automotores";334633606;56204667
+2017;06;293;"Fabricação de peças e acessórios para veículos automotores";328933769;59558431
+2017;03;293;"Fabricação de peças e acessórios para veículos automotores";327895054;59695779
+2017;07;293;"Fabricação de peças e acessórios para veículos automotores";325543239;59102853
+2017;12;293;"Fabricação de peças e acessórios para veículos automotores";316323009;54168208
+2017;11;293;"Fabricação de peças e acessórios para veículos automotores";316210762;56528635
+2017;04;293;"Fabricação de peças e acessórios para veículos automotores";286106441;54298842
+2017;02;293;"Fabricação de peças e acessórios para veículos automotores";268446480;49932496
+2017;01;293;"Fabricação de peças e acessórios para veículos automotores";227834955;44999643
+2017;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";55480076;6241639
+2017;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";46238691;5797925
+2017;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";38124933;4748909
+2017;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37278786;4593285
+2017;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36244328;5325283
+2017;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36174475;4722972
+2017;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35126831;5771423
+2017;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34504177;4392223
+2017;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";33906873;4974914
+2017;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28276001;4230494
+2017;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23930771;3788147
+2017;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";19114545;3260618
+2016;12;291;"Fabricação de veículos automotores";961257986;104306393
+2016;11;291;"Fabricação de veículos automotores";896543604;90070542
+2016;08;291;"Fabricação de veículos automotores";890382775;87534481
+2016;06;291;"Fabricação de veículos automotores";761585176;84904353
+2016;09;291;"Fabricação de veículos automotores";737718144;77658529
+2016;05;291;"Fabricação de veículos automotores";734219212;84045201
+2016;10;291;"Fabricação de veículos automotores";699718347;67962911
+2016;03;291;"Fabricação de veículos automotores";695047816;70739135
+2016;02;291;"Fabricação de veículos automotores";682109443;75502901
+2016;04;291;"Fabricação de veículos automotores";646007097;65545061
+2016;07;291;"Fabricação de veículos automotores";632350485;70087084
+2016;01;291;"Fabricação de veículos automotores";387276820;42683307
+2016;03;293;"Fabricação de peças e acessórios para veículos automotores";302602004;56789732
+2016;08;293;"Fabricação de peças e acessórios para veículos automotores";295495964;52646884
+2016;12;293;"Fabricação de peças e acessórios para veículos automotores";288319122;53389201
+2016;11;293;"Fabricação de peças e acessórios para veículos automotores";284765656;53627705
+2016;05;293;"Fabricação de peças e acessórios para veículos automotores";283145813;52650067
+2016;09;293;"Fabricação de peças e acessórios para veículos automotores";277588814;49636437
+2016;02;293;"Fabricação de peças e acessórios para veículos automotores";275617311;50710412
+2016;06;293;"Fabricação de peças e acessórios para veículos automotores";274667914;52147460
+2016;10;293;"Fabricação de peças e acessórios para veículos automotores";267493450;50102529
+2016;07;293;"Fabricação de peças e acessórios para veículos automotores";262659292;48806365
+2016;04;293;"Fabricação de peças e acessórios para veículos automotores";257447902;46565588
+2016;01;293;"Fabricação de peças e acessórios para veículos automotores";195222321;35325373
+2016;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";44519430;6357605
+2016;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";38900676;5355193
+2016;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";38250757;6200232
+2016;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34501373;5339324
+2016;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27715995;4396290
+2016;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26729618;4536607
+2016;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";25564264;4545957
+2016;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23719199;3959423
+2016;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23495670;4585968
+2016;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";22359933;4482721
+2016;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";19806580;3053572
+2016;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";11320732;2290619
+2015;06;291;"Fabricação de veículos automotores";807455801;76214632
+2015;12;291;"Fabricação de veículos automotores";719643487;60711979
+2015;10;291;"Fabricação de veículos automotores";680812554;72440435
+2015;07;291;"Fabricação de veículos automotores";659388518;67970981
+2015;03;291;"Fabricação de veículos automotores";644164905;61843209
+2015;11;291;"Fabricação de veículos automotores";588697532;61271662
+2015;05;291;"Fabricação de veículos automotores";567352648;56517510
+2015;09;291;"Fabricação de veículos automotores";526441342;53807753
+2015;04;291;"Fabricação de veículos automotores";506172744;48313477
+2015;08;291;"Fabricação de veículos automotores";504792550;50973898
+2015;02;291;"Fabricação de veículos automotores";486888313;46130406
+2015;03;293;"Fabricação de peças e acessórios para veículos automotores";393070190;63254620
+2015;06;293;"Fabricação de peças e acessórios para veículos automotores";370616257;60793323
+2015;08;293;"Fabricação de peças e acessórios para veículos automotores";352803298;58529449
+2015;09;293;"Fabricação de peças e acessórios para veículos automotores";344886803;56289598
+2015;04;293;"Fabricação de peças e acessórios para veículos automotores";342581402;58097470
+2015;05;293;"Fabricação de peças e acessórios para veículos automotores";338016500;57095269
+2015;07;293;"Fabricação de peças e acessórios para veículos automotores";333118318;48552286
+2015;10;293;"Fabricação de peças e acessórios para veículos automotores";317263975;56789535
+2015;02;293;"Fabricação de peças e acessórios para veículos automotores";307424346;49254323
+2015;01;291;"Fabricação de veículos automotores";281883808;26598601
+2015;11;293;"Fabricação de peças e acessórios para veículos automotores";274210595;49160332
+2015;12;293;"Fabricação de peças e acessórios para veículos automotores";267436991;47411997
+2015;01;293;"Fabricação de peças e acessórios para veículos automotores";260254801;42959037
+2015;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";44336593;6877227
+2015;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";42684996;5317796
+2015;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";42465685;5364747
+2015;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35862500;4841285
+2015;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";31087805;4319380
+2015;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28249428;4082997
+2015;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26845029;3739109
+2015;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26237762;3738784
+2015;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23595721;3678557
+2015;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";21405511;3738494
+2015;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16403080;2623123
+2015;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16302090;2083642
+2014;05;291;"Fabricação de veículos automotores";634056104;58012571
+2014;06;291;"Fabricação de veículos automotores";600632037;54623184
+2014;04;291;"Fabricação de veículos automotores";598002032;55895154
+2014;09;291;"Fabricação de veículos automotores";594538437;55244937
+2014;08;291;"Fabricação de veículos automotores";576719640;53784061
+2014;07;291;"Fabricação de veículos automotores";576130802;52388767
+2014;11;291;"Fabricação de veículos automotores";561132781;53035183
+2014;02;291;"Fabricação de veículos automotores";558636031;51380073
+2014;01;291;"Fabricação de veículos automotores";532293062;46772425
+2014;03;291;"Fabricação de veículos automotores";532011990;48839092
+2014;10;291;"Fabricação de veículos automotores";515859313;47965581
+2014;12;291;"Fabricação de veículos automotores";506319082;47814791
+2014;03;293;"Fabricação de peças e acessórios para veículos automotores";400603972;60026252
+2014;10;293;"Fabricação de peças e acessórios para veículos automotores";396387469;60006529
+2014;05;293;"Fabricação de peças e acessórios para veículos automotores";389606545;58916868
+2014;09;293;"Fabricação de peças e acessórios para veículos automotores";389405879;59668334
+2014;04;293;"Fabricação de peças e acessórios para veículos automotores";389339217;57354854
+2014;02;293;"Fabricação de peças e acessórios para veículos automotores";386191635;57945438
+2014;07;293;"Fabricação de peças e acessórios para veículos automotores";384043561;61251684
+2014;08;293;"Fabricação de peças e acessórios para veículos automotores";367675806;55457182
+2014;06;293;"Fabricação de peças e acessórios para veículos automotores";339179676;52647979
+2014;11;293;"Fabricação de peças e acessórios para veículos automotores";336993693;49968611
+2014;01;293;"Fabricação de peças e acessórios para veículos automotores";324264089;51269987
+2014;12;293;"Fabricação de peças e acessórios para veículos automotores";323716610;50933847
+2014;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";42446743;5137852
+2014;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";40063372;4968958
+2014;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";39880538;4734765
+2014;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";38484991;4166607
+2014;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37677189;4657560
+2014;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35730940;5126111
+2014;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";31311626;3970578
+2014;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26750154;4087596
+2014;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26524447;3345170
+2014;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26438765;3162523
+2014;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26092927;3597387
+2014;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";25398967;3947389
+2013;08;291;"Fabricação de veículos automotores";1057189977;95422946
+2013;10;291;"Fabricação de veículos automotores";976164688;87703311
+2013;07;291;"Fabricação de veículos automotores";972905500;87750226
+2013;09;291;"Fabricação de veículos automotores";947762339;85306109
+2013;05;291;"Fabricação de veículos automotores";930295266;84008923
+2013;04;291;"Fabricação de veículos automotores";927952113;84192052
+2013;12;291;"Fabricação de veículos automotores";926354661;80452091
+2013;11;291;"Fabricação de veículos automotores";908267103;79550368
+2013;06;291;"Fabricação de veículos automotores";858940714;77929233
+2013;01;291;"Fabricação de veículos automotores";659304585;61868550
+2013;02;291;"Fabricação de veículos automotores";635289417;57732174
+2013;03;291;"Fabricação de veículos automotores";587979346;52644169
+2013;04;293;"Fabricação de peças e acessórios para veículos automotores";525277936;74550815
+2013;05;293;"Fabricação de peças e acessórios para veículos automotores";498696628;69863666
+2013;07;293;"Fabricação de peças e acessórios para veículos automotores";478750657;68278859
+2013;10;293;"Fabricação de peças e acessórios para veículos automotores";475116289;70841534
+2013;03;293;"Fabricação de peças e acessórios para veículos automotores";471899454;65736416
+2013;08;293;"Fabricação de peças e acessórios para veículos automotores";465364540;69897406
+2013;09;293;"Fabricação de peças e acessórios para veículos automotores";442590630;62593924
+2013;06;293;"Fabricação de peças e acessórios para veículos automotores";438498719;61580560
+2013;02;293;"Fabricação de peças e acessórios para veículos automotores";418165617;57675558
+2013;01;293;"Fabricação de peças e acessórios para veículos automotores";398112306;56380661
+2013;11;293;"Fabricação de peças e acessórios para veículos automotores";368657258;55171100
+2013;12;293;"Fabricação de peças e acessórios para veículos automotores";354812427;54017725
+2013;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";52574240;6165949
+2013;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";49343915;5843324
+2013;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";48751915;6873292
+2013;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";38229834;5258594
+2013;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37927827;5485769
+2013;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36435080;5670929
+2013;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35748449;5151850
+2013;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";31436309;5257313
+2013;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27471688;4442011
+2013;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";25796052;4061981
+2013;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";24499131;3883452
+2013;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";22473144;2776243
+2012;05;291;"Fabricação de veículos automotores";829757600;78446165
+2012;08;291;"Fabricação de veículos automotores";798033814;71300496
+2012;10;291;"Fabricação de veículos automotores";764796192;67429091
+2012;07;291;"Fabricação de veículos automotores";764531998;69003676
+2012;02;291;"Fabricação de veículos automotores";745673832;71883063
+2012;09;291;"Fabricação de veículos automotores";731243072;64436139
+2012;12;291;"Fabricação de veículos automotores";714763331;63617474
+2012;11;291;"Fabricação de veículos automotores";704963551;63420668
+2012;03;291;"Fabricação de veículos automotores";686827806;62491967
+2012;04;291;"Fabricação de veículos automotores";611873435;57287576
+2012;01;291;"Fabricação de veículos automotores";574224966;54758744
+2012;06;291;"Fabricação de veículos automotores";572506493;50078087
+2012;03;293;"Fabricação de peças e acessórios para veículos automotores";550301765;75423152
+2012;10;293;"Fabricação de peças e acessórios para veículos automotores";545649248;72736836
+2012;08;293;"Fabricação de peças e acessórios para veículos automotores";541150501;75436079
+2012;05;293;"Fabricação de peças e acessórios para veículos automotores";514636504;72319513
+2012;07;293;"Fabricação de peças e acessórios para veículos automotores";502948851;70654174
+2012;04;293;"Fabricação de peças e acessórios para veículos automotores";498064939;67681833
+2012;02;293;"Fabricação de peças e acessórios para veículos automotores";485754107;69016120
+2012;06;293;"Fabricação de peças e acessórios para veículos automotores";475092947;66002685
+2012;09;293;"Fabricação de peças e acessórios para veículos automotores";464450899;63298248
+2012;11;293;"Fabricação de peças e acessórios para veículos automotores";457655612;61560944
+2012;12;293;"Fabricação de peças e acessórios para veículos automotores";427929945;57534707
+2012;01;293;"Fabricação de peças e acessórios para veículos automotores";417941170;61757464
+2012;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";60082256;7422265
+2012;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";56564397;8314816
+2012;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";53045542;6137382
+2012;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";52097087;6012204
+2012;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";47859026;5882337
+2012;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";33528013;5248273
+2012;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30461139;4510009
+2012;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";29373628;4161955
+2012;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";29254465;4027419
+2012;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28534193;4412683
+2012;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26886740;4632268
+2012;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";22230710;3455235
+2011;12;291;"Fabricação de veículos automotores";959733949;90614978
+2011;11;291;"Fabricação de veículos automotores";936839795;89555150
+2011;10;291;"Fabricação de veículos automotores";931726111;86586027
+2011;08;291;"Fabricação de veículos automotores";893241181;86723764
+2011;06;291;"Fabricação de veículos automotores";865714197;81804474
+2011;07;291;"Fabricação de veículos automotores";827222375;79902952
+2011;09;291;"Fabricação de veículos automotores";821412979;76419087
+2011;04;291;"Fabricação de veículos automotores";789877789;76459014
+2011;05;291;"Fabricação de veículos automotores";786354999;76449600
+2011;03;291;"Fabricação de veículos automotores";768714120;77142627
+2011;02;291;"Fabricação de veículos automotores";750046698;76739596
+2011;08;293;"Fabricação de peças e acessórios para veículos automotores";617169877;83552062
+2011;05;293;"Fabricação de peças e acessórios para veículos automotores";583158479;81335768
+2011;09;293;"Fabricação de peças e acessórios para veículos automotores";570444625;78680670
+2011;06;293;"Fabricação de peças e acessórios para veículos automotores";552242086;75882939
+2011;07;293;"Fabricação de peças e acessórios para veículos automotores";541737946;74575887
+2011;10;293;"Fabricação de peças e acessórios para veículos automotores";540178598;74742184
+2011;03;293;"Fabricação de peças e acessórios para veículos automotores";539153799;78692725
+2011;11;293;"Fabricação de peças e acessórios para veículos automotores";534078617;74456761
+2011;04;293;"Fabricação de peças e acessórios para veículos automotores";493828424;70031267
+2011;12;293;"Fabricação de peças e acessórios para veículos automotores";477655796;65300566
+2011;02;293;"Fabricação de peças e acessórios para veículos automotores";433672787;63288128
+2011;01;293;"Fabricação de peças e acessórios para veículos automotores";401606759;61407170
+2011;01;291;"Fabricação de veículos automotores";357307357;34069170
+2011;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";63292367;8087975
+2011;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";46053546;5910485
+2011;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";45437037;5532099
+2011;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";43264423;5440341
+2011;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";40318869;5055283
+2011;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";39321243;4717431
+2011;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";38291466;4864530
+2011;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36569804;4843522
+2011;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35316811;4850280
+2011;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";33139622;4257830
+2011;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32119949;4166925
+2011;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";25946330;3833334
+2010;10;291;"Fabricação de veículos automotores";832955369;81844062
+2010;12;291;"Fabricação de veículos automotores";826179615;82136898
+2010;11;291;"Fabricação de veículos automotores";813408164;81676449
+2010;06;291;"Fabricação de veículos automotores";782281507;73068203
+2010;07;291;"Fabricação de veículos automotores";764455028;73015301
+2010;09;291;"Fabricação de veículos automotores";745673302;75367609
+2010;08;291;"Fabricação de veículos automotores";724904936;70637385
+2010;05;291;"Fabricação de veículos automotores";693718477;68019930
+2010;03;291;"Fabricação de veículos automotores";690954308;71124460
+2010;02;291;"Fabricação de veículos automotores";612082794;63326514
+2010;04;291;"Fabricação de veículos automotores";590770122;59477723
+2010;08;293;"Fabricação de peças e acessórios para veículos automotores";506889354;78300591
+2010;10;293;"Fabricação de peças e acessórios para veículos automotores";489910074;72219750
+2010;11;293;"Fabricação de peças e acessórios para veículos automotores";489319785;72185301
+2010;09;293;"Fabricação de peças e acessórios para veículos automotores";486487777;73928712
+2010;12;293;"Fabricação de peças e acessórios para veículos automotores";470325482;70915671
+2010;01;291;"Fabricação de veículos automotores";469598610;49091297
+2010;07;293;"Fabricação de peças e acessórios para veículos automotores";467134250;72648234
+2010;05;293;"Fabricação de peças e acessórios para veículos automotores";444711272;70746700
+2010;06;293;"Fabricação de peças e acessórios para veículos automotores";443366998;71811206
+2010;03;293;"Fabricação de peças e acessórios para veículos automotores";424504267;68308344
+2010;04;293;"Fabricação de peças e acessórios para veículos automotores";408009378;63622939
+2010;02;293;"Fabricação de peças e acessórios para veículos automotores";320966259;51733426
+2010;01;293;"Fabricação de peças e acessórios para veículos automotores";273414460;45047020
+2010;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";67389472;7412993
+2010;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";46804734;5252209
+2010;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";44185883;5017066
+2010;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";38687790;4838935
+2010;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37756115;5264073
+2010;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34051857;4420197
+2010;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32676956;4549051
+2010;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";31282389;4623670
+2010;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30034174;3894884
+2010;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";29312498;3859490
+2010;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26074785;4117377
+2010;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";22855507;3716539
+2009;12;291;"Fabricação de veículos automotores";717923993;70931947
+2009;10;291;"Fabricação de veículos automotores";583397703;58648954
+2009;11;291;"Fabricação de veículos automotores";549042412;56285101
+2009;09;291;"Fabricação de veículos automotores";479701072;50665106
+2009;04;291;"Fabricação de veículos automotores";479481270;47539553
+2009;06;291;"Fabricação de veículos automotores";471976273;48612597
+2009;07;291;"Fabricação de veículos automotores";434717434;44274855
+2009;03;291;"Fabricação de veículos automotores";423683614;44866047
+2009;08;291;"Fabricação de veículos automotores";422766325;47039907
+2009;05;291;"Fabricação de veículos automotores";419853086;41901536
+2009;10;293;"Fabricação de peças e acessórios para veículos automotores";365331819;58122070
+2009;02;291;"Fabricação de veículos automotores";354258061;37572633
+2009;12;293;"Fabricação de peças e acessórios para veículos automotores";350727362;54835821
+2009;09;293;"Fabricação de peças e acessórios para veículos automotores";343033473;57033308
+2009;11;293;"Fabricação de peças e acessórios para veículos automotores";326690943;55543678
+2009;07;293;"Fabricação de peças e acessórios para veículos automotores";320242086;49186037
+2009;08;293;"Fabricação de peças e acessórios para veículos automotores";319560493;52054141
+2009;01;291;"Fabricação de veículos automotores";292668392;31506043
+2009;04;293;"Fabricação de peças e acessórios para veículos automotores";280697263;43613676
+2009;03;293;"Fabricação de peças e acessórios para veículos automotores";271829147;42771714
+2009;06;293;"Fabricação de peças e acessórios para veículos automotores";271201194;39435937
+2009;05;293;"Fabricação de peças e acessórios para veículos automotores";258927924;36369291
+2009;02;293;"Fabricação de peças e acessórios para veículos automotores";242430001;36211929
+2009;01;293;"Fabricação de peças e acessórios para veículos automotores";187349647;30648581
+2009;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";41525144;5323519
+2009;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35961359;4270848
+2009;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35365186;4126428
+2009;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";31844514;4910067
+2009;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30643790;4220585
+2009;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";29481335;3917394
+2009;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28518848;4426823
+2009;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28146229;4820640
+2009;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27418692;3748008
+2009;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26152396;4201424
+2009;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23952758;3180829
+2009;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23077525;2825671
+2008;09;291;"Fabricação de veículos automotores";1022152772;99965358
+2008;10;291;"Fabricação de veículos automotores";978562796;96200062
+2008;07;291;"Fabricação de veículos automotores";964431611;96626679
+2008;06;291;"Fabricação de veículos automotores";925170426;92091021
+2008;08;291;"Fabricação de veículos automotores";881246466;87016068
+2008;05;291;"Fabricação de veículos automotores";833072621;87539947
+2008;04;291;"Fabricação de veículos automotores";819140983;84749949
+2008;11;291;"Fabricação de veículos automotores";815121558;80497693
+2008;03;291;"Fabricação de veículos automotores";806945232;87875106
+2008;01;291;"Fabricação de veículos automotores";764057958;86262966
+2008;12;291;"Fabricação de veículos automotores";742951349;72528020
+2008;02;291;"Fabricação de veículos automotores";658491100;73846417
+2008;07;293;"Fabricação de peças e acessórios para veículos automotores";526623396;92901060
+2008;09;293;"Fabricação de peças e acessórios para veículos automotores";523948249;88679923
+2008;08;293;"Fabricação de peças e acessórios para veículos automotores";513144638;87362210
+2008;05;293;"Fabricação de peças e acessórios para veículos automotores";503454010;93659924
+2008;10;293;"Fabricação de peças e acessórios para veículos automotores";502069542;84358144
+2008;04;293;"Fabricação de peças e acessórios para veículos automotores";496337111;93758006
+2008;06;293;"Fabricação de peças e acessórios para veículos automotores";489488294;89150685
+2008;03;293;"Fabricação de peças e acessórios para veículos automotores";442142963;84967299
+2008;02;293;"Fabricação de peças e acessórios para veículos automotores";428691893;87446771
+2008;01;293;"Fabricação de peças e acessórios para veículos automotores";405250634;83001687
+2008;11;293;"Fabricação de peças e acessórios para veículos automotores";351780667;56780652
+2008;12;293;"Fabricação de peças e acessórios para veículos automotores";289515012;42749620
+2008;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";80902532;10061119
+2008;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";74971277;10494276
+2008;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";69123414;9775925
+2008;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";62770406;8782611
+2008;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";60456739;7990984
+2008;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";58474706;8266892
+2008;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";58095257;8460030
+2008;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";57017236;9412933
+2008;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";56633635;8833582
+2008;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";54188508;8404631
+2008;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";48309760;7348788
+2008;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";45673524;7216290
+2007;10;291;"Fabricação de veículos automotores";945428478;104635310
+2007;11;291;"Fabricação de veículos automotores";931589101;103565261
+2007;12;291;"Fabricação de veículos automotores";820705340;88814442
+2007;07;291;"Fabricação de veículos automotores";820248621;98138362
+2007;08;291;"Fabricação de veículos automotores";808461283;92681682
+2007;06;291;"Fabricação de veículos automotores";807643120;97494304
+2007;09;291;"Fabricação de veículos automotores";804022865;94432239
+2007;05;291;"Fabricação de veículos automotores";786478717;94148266
+2007;03;291;"Fabricação de veículos automotores";752536319;93413852
+2007;04;291;"Fabricação de veículos automotores";744848286;89348612
+2007;02;291;"Fabricação de veículos automotores";652996602;78588213
+2007;01;291;"Fabricação de veículos automotores";519147090;64183683
+2007;08;293;"Fabricação de peças e acessórios para veículos automotores";485448239;100468333
+2007;10;293;"Fabricação de peças e acessórios para veículos automotores";472505127;97245699
+2007;05;293;"Fabricação de peças e acessórios para veículos automotores";458696647;96360627
+2007;03;293;"Fabricação de peças e acessórios para veículos automotores";442595225;97779262
+2007;07;293;"Fabricação de peças e acessórios para veículos automotores";434131862;91195868
+2007;11;293;"Fabricação de peças e acessórios para veículos automotores";432404790;90350983
+2007;12;293;"Fabricação de peças e acessórios para veículos automotores";422780895;80241595
+2007;06;293;"Fabricação de peças e acessórios para veículos automotores";416114964;88359207
+2007;09;293;"Fabricação de peças e acessórios para veículos automotores";415624627;85560935
+2007;04;293;"Fabricação de peças e acessórios para veículos automotores";391764953;85599922
+2007;02;293;"Fabricação de peças e acessórios para veículos automotores";377147079;85236435
+2007;01;293;"Fabricação de peças e acessórios para veículos automotores";323178478;76797013
+2007;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";80432982;13016652
+2007;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";76568775;13857183
+2007;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";64082665;10124928
+2007;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";61494959;10512943
+2007;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";49152015;8810854
+2007;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";48472160;7473232
+2007;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";45207706;8423776
+2007;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";42384338;6995608
+2007;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";41838981;7463479
+2007;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32383756;6064108
+2007;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28312666;5273034
+2007;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27499926;4934634
+2006;08;291;"Fabricação de veículos automotores";881245382;107934678
+2006;12;291;"Fabricação de veículos automotores";834951436;100977946
+2006;03;291;"Fabricação de veículos automotores";816696069;104103292
+2006;07;291;"Fabricação de veículos automotores";801420437;100223046
+2006;06;291;"Fabricação de veículos automotores";800746170;99886551
+2006;05;291;"Fabricação de veículos automotores";789353936;97073520
+2006;10;291;"Fabricação de veículos automotores";762219473;93274079
+2006;09;291;"Fabricação de veículos automotores";759650449;92961442
+2006;02;291;"Fabricação de veículos automotores";746367610;96077005
+2006;04;291;"Fabricação de veículos automotores";725789138;90740233
+2006;11;291;"Fabricação de veículos automotores";704104194;85946298
+2006;01;291;"Fabricação de veículos automotores";614534768;80176055
+2006;08;293;"Fabricação de peças e acessórios para veículos automotores";453591925;104484802
+2006;10;293;"Fabricação de peças e acessórios para veículos automotores";423211855;92595954
+2006;05;293;"Fabricação de peças e acessórios para veículos automotores";422206879;99580067
+2006;03;293;"Fabricação de peças e acessórios para veículos automotores";418715361;104880043
+2006;09;293;"Fabricação de peças e acessórios para veículos automotores";411924434;91880096
+2006;07;293;"Fabricação de peças e acessórios para veículos automotores";405010045;97279259
+2006;11;293;"Fabricação de peças e acessórios para veículos automotores";402472403;92378262
+2006;12;293;"Fabricação de peças e acessórios para veículos automotores";401818084;86303958
+2006;06;293;"Fabricação de peças e acessórios para veículos automotores";395156056;94375607
+2006;04;293;"Fabricação de peças e acessórios para veículos automotores";366356335;88835125
+2006;02;293;"Fabricação de peças e acessórios para veículos automotores";335391414;84627794
+2006;01;293;"Fabricação de peças e acessórios para veículos automotores";269377695;71302421
+2006;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";67207327;10107403
+2006;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";55496412;9719154
+2006;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";47945854;8598708
+2006;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";44540333;7413182
+2006;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";43050807;7800546
+2006;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";41369897;8012314
+2006;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";40395979;7390625
+2006;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";35331114;6178988
+2006;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";34541169;6216013
+2006;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32791050;5573605
+2006;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";29447729;5273014
+2006;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28206942;4606444
+2005;08;291;"Fabricação de veículos automotores";870824620;121045548
+2005;09;291;"Fabricação de veículos automotores";856474758;112580945
+2005;11;291;"Fabricação de veículos automotores";849495184;112458216
+2005;12;291;"Fabricação de veículos automotores";824410598;107623400
+2005;10;291;"Fabricação de veículos automotores";798508858;105957593
+2005;05;291;"Fabricação de veículos automotores";768871024;111363781
+2005;07;291;"Fabricação de veículos automotores";751756250;106813026
+2005;06;291;"Fabricação de veículos automotores";747838254;104823158
+2005;03;291;"Fabricação de veículos automotores";674969942;99950940
+2005;04;291;"Fabricação de veículos automotores";665692399;93804513
+2005;02;291;"Fabricação de veículos automotores";548377829;80720738
+2005;01;291;"Fabricação de veículos automotores";415934924;60712163
+2005;09;293;"Fabricação de peças e acessórios para veículos automotores";357489061;95118362
+2005;08;293;"Fabricação de peças e acessórios para veículos automotores";355873773;96972216
+2005;06;293;"Fabricação de peças e acessórios para veículos automotores";348773151;93514010
+2005;03;293;"Fabricação de peças e acessórios para veículos automotores";340462098;93715719
+2005;11;293;"Fabricação de peças e acessórios para veículos automotores";338551514;92473737
+2005;05;293;"Fabricação de peças e acessórios para veículos automotores";334340846;90603236
+2005;12;293;"Fabricação de peças e acessórios para veículos automotores";333148388;86983965
+2005;10;293;"Fabricação de peças e acessórios para veículos automotores";332125786;88005646
+2005;07;293;"Fabricação de peças e acessórios para veículos automotores";323664781;85457845
+2005;04;293;"Fabricação de peças e acessórios para veículos automotores";307767309;86212836
+2005;02;293;"Fabricação de peças e acessórios para veículos automotores";282891899;81264149
+2005;01;293;"Fabricação de peças e acessórios para veículos automotores";251782863;72063294
+2005;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";44787287;7286133
+2005;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";38766083;7486947
+2005;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";37479157;7233021
+2005;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36925548;8298416
+2005;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36852046;7573083
+2005;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";36649008;7055940
+2005;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";33779785;6442907
+2005;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";32485760;5939972
+2005;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28045586;5262919
+2005;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27914347;5242347
+2005;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27125859;5418115
+2005;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26982846;5501262
+2004;10;291;"Fabricação de veículos automotores";631449110;96812468
+2004;08;291;"Fabricação de veículos automotores";620230939;94227186
+2004;11;291;"Fabricação de veículos automotores";611608198;87254995
+2004;12;291;"Fabricação de veículos automotores";594834253;89324039
+2004;09;291;"Fabricação de veículos automotores";581878744;89748246
+2004;07;291;"Fabricação de veículos automotores";580321151;91088676
+2004;06;291;"Fabricação de veículos automotores";525588446;81622252
+2004;03;291;"Fabricação de veículos automotores";491386698;74680937
+2004;05;291;"Fabricação de veículos automotores";488753150;76366189
+2004;04;291;"Fabricação de veículos automotores";437893820;66963586
+2004;02;291;"Fabricação de veículos automotores";342860216;52934834
+2004;12;293;"Fabricação de peças e acessórios para veículos automotores";305261419;86247370
+2004;09;293;"Fabricação de peças e acessórios para veículos automotores";298736139;89869524
+2004;01;291;"Fabricação de veículos automotores";296913086;46822668
+2004;08;293;"Fabricação de peças e acessórios para veículos automotores";291081689;86685169
+2004;10;293;"Fabricação de peças e acessórios para veículos automotores";290598838;86655017
+2004;11;293;"Fabricação de peças e acessórios para veículos automotores";283702694;82672191
+2004;07;293;"Fabricação de peças e acessórios para veículos automotores";280980240;85653849
+2004;03;293;"Fabricação de peças e acessórios para veículos automotores";275922175;83040777
+2004;06;293;"Fabricação de peças e acessórios para veículos automotores";270876057;80709340
+2004;04;293;"Fabricação de peças e acessórios para veículos automotores";256906083;74980497
+2004;05;293;"Fabricação de peças e acessórios para veículos automotores";254332709;75698924
+2004;02;293;"Fabricação de peças e acessórios para veículos automotores";207138751;63838151
+2004;01;293;"Fabricação de peças e acessórios para veículos automotores";176997942;54835304
+2004;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";33545084;7774441
+2004;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30911284;6594582
+2004;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";29621235;6028608
+2004;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";28286072;6124459
+2004;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";26297709;5519754
+2004;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";22320484;4985470
+2004;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";20368247;5578426
+2004;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";19299068;3760511
+2004;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";18146354;4328508
+2004;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16752869;3610202
+2004;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16000348;3942883
+2004;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13515508;2917284
+2003;10;291;"Fabricação de veículos automotores";505371685;75605368
+2003;09;291;"Fabricação de veículos automotores";499666280;75421847
+2003;11;291;"Fabricação de veículos automotores";450043048;67652160
+2003;12;291;"Fabricação de veículos automotores";423660884;65293332
+2003;08;291;"Fabricação de veículos automotores";420745326;61683072
+2003;06;291;"Fabricação de veículos automotores";408894784;59593110
+2003;07;291;"Fabricação de veículos automotores";377140394;57212824
+2003;05;291;"Fabricação de veículos automotores";370421873;49759979
+2003;04;291;"Fabricação de veículos automotores";345599461;49434682
+2003;03;291;"Fabricação de veículos automotores";338092567;48073767
+2003;02;291;"Fabricação de veículos automotores";313404741;44242545
+2003;10;293;"Fabricação de peças e acessórios para veículos automotores";230040932;71772967
+2003;09;293;"Fabricação de peças e acessórios para veículos automotores";228888113;70905186
+2003;05;293;"Fabricação de peças e acessórios para veículos automotores";223435215;67569477
+2003;07;293;"Fabricação de peças e acessórios para veículos automotores";220296876;67025266
+2003;12;293;"Fabricação de peças e acessórios para veículos automotores";219758328;65091766
+2003;06;293;"Fabricação de peças e acessórios para veículos automotores";210928482;63234045
+2003;01;291;"Fabricação de veículos automotores";210796796;30186059
+2003;08;293;"Fabricação de peças e acessórios para veículos automotores";204101521;63009264
+2003;04;293;"Fabricação de peças e acessórios para veículos automotores";199917289;62278507
+2003;11;293;"Fabricação de peças e acessórios para veículos automotores";196150028;61313662
+2003;03;293;"Fabricação de peças e acessórios para veículos automotores";189579165;59416162
+2003;02;293;"Fabricação de peças e acessórios para veículos automotores";184849273;58802532
+2003;01;293;"Fabricação de peças e acessórios para veículos automotores";137377194;46117949
+2003;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";27077298;5597403
+2003;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23262873;4165753
+2003;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";23182492;4254921
+2003;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";18772720;4802252
+2003;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";18038292;3977047
+2003;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";15805575;4070878
+2003;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";15653261;3338906
+2003;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";15556524;3351697
+2003;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";14015533;3046860
+2003;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13277873;3297732
+2003;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13187812;2891619
+2003;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";12455671;2958807
+2002;10;291;"Fabricação de veículos automotores";390008692;55876759
+2002;12;291;"Fabricação de veículos automotores";356645350;53242556
+2002;09;291;"Fabricação de veículos automotores";339277880;45896053
+2002;07;291;"Fabricação de veículos automotores";336020020;45752385
+2002;11;291;"Fabricação de veículos automotores";324083550;45585841
+2002;08;291;"Fabricação de veículos automotores";310864407;43242458
+2002;04;291;"Fabricação de veículos automotores";294334557;42053484
+2002;05;291;"Fabricação de veículos automotores";282864998;38790783
+2002;06;291;"Fabricação de veículos automotores";249251028;33748156
+2002;03;291;"Fabricação de veículos automotores";241709654;35644283
+2002;02;291;"Fabricação de veículos automotores";190333455;26888843
+2002;10;293;"Fabricação de peças e acessórios para veículos automotores";185271685;60375200
+2002;08;293;"Fabricação de peças e acessórios para veículos automotores";181521259;60545529
+2002;07;293;"Fabricação de peças e acessórios para veículos automotores";180318751;58917919
+2002;04;293;"Fabricação de peças e acessórios para veículos automotores";179086985;55179137
+2002;12;293;"Fabricação de peças e acessórios para veículos automotores";175038962;55916160
+2002;09;293;"Fabricação de peças e acessórios para veículos automotores";174132375;56637927
+2002;05;293;"Fabricação de peças e acessórios para veículos automotores";171226757;54711870
+2002;03;293;"Fabricação de peças e acessórios para veículos automotores";162283614;49508585
+2002;06;293;"Fabricação de peças e acessórios para veículos automotores";157523128;50709418
+2002;11;293;"Fabricação de peças e acessórios para veículos automotores";156582541;51520720
+2002;02;293;"Fabricação de peças e acessórios para veículos automotores";140754406;43426908
+2002;01;291;"Fabricação de veículos automotores";129949151;18070743
+2002;01;293;"Fabricação de peças e acessórios para veículos automotores";106498558;35818246
+2002;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30440662;5690401
+2002;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";18277345;4057589
+2002;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";14681784;2828826
+2002;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";14437532;3427861
+2002;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13568287;2455122
+2002;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13412969;3400003
+2002;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";12664892;3346784
+2002;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";12096792;2566343
+2002;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";11759803;2902442
+2002;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";11589544;2608679
+2002;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";10582746;2269709
+2002;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";9096123;2423865
+2001;04;291;"Fabricação de veículos automotores";315364128;43614828
+2001;05;291;"Fabricação de veículos automotores";309712347;41874220
+2001;07;291;"Fabricação de veículos automotores";302151985;42174045
+2001;03;291;"Fabricação de veículos automotores";301860168;41896380
+2001;10;291;"Fabricação de veículos automotores";301637397;42570491
+2001;06;291;"Fabricação de veículos automotores";298333853;42913660
+2001;08;291;"Fabricação de veículos automotores";281030028;38596885
+2001;12;291;"Fabricação de veículos automotores";277127474;37568063
+2001;11;291;"Fabricação de veículos automotores";262254444;34743007
+2001;09;291;"Fabricação de veículos automotores";262053334;36932579
+2001;02;291;"Fabricação de veículos automotores";236098652;31914535
+2001;03;293;"Fabricação de peças e acessórios para veículos automotores";191382085;55409561
+2001;05;293;"Fabricação de peças e acessórios para veículos automotores";189753405;52071943
+2001;01;291;"Fabricação de veículos automotores";187059751;24891986
+2001;08;293;"Fabricação de peças e acessórios para veículos automotores";181291820;53162820
+2001;04;293;"Fabricação de peças e acessórios para veículos automotores";171806650;47248011
+2001;06;293;"Fabricação de peças e acessórios para veículos automotores";164465291;46989296
+2001;07;293;"Fabricação de peças e acessórios para veículos automotores";163117967;47561349
+2001;10;293;"Fabricação de peças e acessórios para veículos automotores";160944218;42453173
+2001;09;293;"Fabricação de peças e acessórios para veículos automotores";142760826;41007907
+2001;12;293;"Fabricação de peças e acessórios para veículos automotores";141382499;43382867
+2001;02;293;"Fabricação de peças e acessórios para veículos automotores";141032657;39660451
+2001;11;293;"Fabricação de peças e acessórios para veículos automotores";139208533;41880535
+2001;01;293;"Fabricação de peças e acessórios para veículos automotores";111215484;30119552
+2001;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";25748461;4356882
+2001;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";20023069;3506565
+2001;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";19648480;3304008
+2001;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";19563778;3849800
+2001;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";17773449;3107862
+2001;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";17518091;3115302
+2001;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16465908;3031434
+2001;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";14792393;3113244
+2001;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13763654;2881358
+2001;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13058716;2969923
+2001;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";12399802;2486565
+2001;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";9057853;2276955
+2000;12;291;"Fabricação de veículos automotores";328764827;45001201
+2000;05;291;"Fabricação de veículos automotores";317503123;44684985
+2000;07;291;"Fabricação de veículos automotores";304439646;41777654
+2000;06;291;"Fabricação de veículos automotores";300163186;42496098
+2000;10;291;"Fabricação de veículos automotores";295399406;40963209
+2000;08;291;"Fabricação de veículos automotores";291823284;40713791
+2000;09;291;"Fabricação de veículos automotores";268351183;37866792
+2000;04;291;"Fabricação de veículos automotores";244646784;35436667
+2000;03;291;"Fabricação de veículos automotores";243254813;34999121
+2000;11;291;"Fabricação de veículos automotores";233831029;32410905
+2000;02;291;"Fabricação de veículos automotores";208900080;32072708
+2000;03;293;"Fabricação de peças e acessórios para veículos automotores";193230663;58471600
+2000;05;293;"Fabricação de peças e acessórios para veículos automotores";183896287;52887482
+2000;08;293;"Fabricação de peças e acessórios para veículos automotores";180090657;54182106
+2000;10;293;"Fabricação de peças e acessórios para veículos automotores";177926982;51360991
+2000;06;293;"Fabricação de peças e acessórios para veículos automotores";176625780;51541099
+2000;09;293;"Fabricação de peças e acessórios para veículos automotores";173562510;49755857
+2000;07;293;"Fabricação de peças e acessórios para veículos automotores";173005725;48927900
+2000;04;293;"Fabricação de peças e acessórios para veículos automotores";171766515;48280794
+2000;11;293;"Fabricação de peças e acessórios para veículos automotores";167283813;49501401
+2000;02;293;"Fabricação de peças e acessórios para veículos automotores";165338921;49616786
+2000;12;293;"Fabricação de peças e acessórios para veículos automotores";164617560;43452503
+2000;01;293;"Fabricação de peças e acessórios para veículos automotores";122945326;37386958
+2000;01;291;"Fabricação de veículos automotores";115081892;17220556
+2000;12;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";30331346;4889476
+2000;09;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";18419212;3923788
+2000;07;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";18265472;3920604
+2000;10;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";17776485;2813627
+2000;01;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";17565799;3523132
+2000;05;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";17493047;3548389
+2000;02;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16629878;3308048
+2000;03;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16206819;3395085
+2000;08;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";16086345;2761336
+2000;11;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";15123913;2689904
+2000;06;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";14135222;3137787
+2000;04;292;"Fabricação de carroçarias para veículos automóveis; fabricação de reboques e semi-reboques";13720099;2946616
